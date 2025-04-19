@@ -46,7 +46,7 @@ Designed from scratch for a mature audience. Inspired by the mechanical depth of
 
 ## TEAM
 
-- **Director:** [Your Name or Alias]  
+- **Director:** sc0tty2h0dy 
 - **Dev Co-Pilot:** ChatGPT (Prompt-Driven Godot Assistant)
 
 ---
